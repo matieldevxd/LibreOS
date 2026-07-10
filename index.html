@@ -9,9 +9,14 @@
 </head>
 
 
-</body>
+<body>
 <div class="El-taco"><img src="https://i.postimg.cc/KYgmNTvX/Libre-OS-No-Fond.png" alt="" class="el-plato">
-    <h1 style="font-family: sans-serif; margin: 0;">LibreOS</h1>
+    <h1 style="font-family: sans-serif; margin: 0;">I LibreOS I</h1>
+    <a
+        href="https://mail.google.com/mail/u/0/#inbox?compose=CrpPbDzFqbVdBcPbcRvLlZTtJwQtvFngmgdRsqzhqtnXwqFvbtTLwVWqCnJKfptnGvdPMKzRWzkDlLQqzNXq">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gmail_icon_%282026%29.svg/3840px-Gmail_icon_%282026%29.svg.png"
+            alt="" class="gmail">
+    </a>
 </div>
 <div class="la-barbacoa">
     <h2>"La tecnología me esta abriendo muchos caminos y yo les dare caminos libres."
@@ -23,13 +28,21 @@
     </div>
 </div>
 </div>
-<p>Hecho con PopOS!. Gracias a System76 por dar esta distro de Linux y a Linus Torvalds</p>
-<a href="https://system76.com/pop">PopOS!</a>
-<a href="https://www.linux.org/">Linux</a>
-<a href="https://www.linuxfoundation.org/legal/privacy-policy">Derechos Legales</a>
+<div class="la-cuenta">
+    <p>Hecho con PopOS!. Gracias a System76 por dar esta distro de Linux y a Linus Torvalds</p>
+    <p>Trabajando con esfuerzo LibreOS Viewer! Para que porfin los instales con cuidado!</p>
+    <a href="https://system76.com/pop">PopOS!</a>
+    <a href="https://www.linux.org/">Linux</a>
+    <a href="https://www.linuxfoundation.org/legal/privacy-policy">Derechos Legales</a>
+</div>
 
-<body>
+</body>
     <style>
+        body {
+            align-items: center;
+            text-align: center;
+        }
+
         .El-taco {
             align-items: center;
             text-align: left;
@@ -40,12 +53,14 @@
             display: inline-flex;
             gap: 15px;
             background-color: white;
+            text-decoration: none;
         }
 
         .el-plato {
             width: 85px;
             height: 85px;
             align-items: center;
+            transition: ease-in-out 0.2s;
         }
 
         .la-barbacoa {
@@ -71,9 +86,9 @@
 
         .beta {
             border-radius: 10px;
-            background-color: aquamarine;
+            background-color: #FFCE44;
             text-decoration: none;
-            color: rgb(2, 72, 134);
+            color: white;
             font-size: 35px;
             align-items: center;
             text-align: center;
@@ -100,6 +115,41 @@
             border-radius: 15px;
             width: auto;
             height: auto;
+        }
+
+        .la-cuenta {
+            flex-direction: column;
+            align-items: center;
+            display: inline-flex;
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace;
+        }
+
+        .el-plato:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        a {
+            text-decoration: none;
+            color: rgb(0, 60, 255);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            border-radius: 2.5px;
+            border-color: black;
+            text-shadow: 2px 2px 4px gray;
+            font-size: 25px;
+        }
+
+        .gmail {
+            width: 40px;
+            height: 30px;
+            border-radius: 5px;
+            border-color: black;
+            box-shadow: 10px 10px 15px 5px rgba(0, 0, 0, 0.3);
+        }
+
+        h1 {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
     </style>
 
