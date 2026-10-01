@@ -1,21 +1,21 @@
-## español 🇪🇸
+## Español 🇪🇸
 
-🎉 **¡felicidades!** 🎉  
-has sabido cómo encontrar esta branch 👀
+🎉 **¡Felicidades!** 🎉  
+Has sabido cómo encontrar esta branch. 👀
 
-a continuación habrá contenido relacionado con **apk**, builds y otras cosas de libreos 📱💻
+A continuación habrá contenido relacionado con **APK**, builds y otras cosas de LibreOS. 📱💻
 
-⚠️ **ten cuidado con páginas falsas.**  
-descarga o consulta libreos únicamente desde fuentes oficiales y confiables. 🔒
+⚠️ **Ten cuidado con páginas falsas.**  
+Descarga o consulta LibreOS únicamente desde fuentes oficiales y confiables. 🔒
 
 ---
 
-## english 🇬🇧
+## English 🇬🇧
 
-🎉 **congratulations!** 🎉  
-you found out how to reach this branch 👀
+🎉 **Congratulations!** 🎉  
+You have found your way to this branch. 👀
 
-below, you may find **apk** content, builds, and other libreos stuff 📱💻
+Below, you may find **APK** content, builds, and other LibreOS stuff. 📱💻
 
-⚠️ **be careful with fake websites.**  
-only download or check libreos from official and trusted sources. 🔒
+⚠️ **Be careful with fake websites.**  
+Only download or check LibreOS from official and trusted sources. 🔒
